@@ -1,0 +1,1 @@
+﻿g++ -Ic:/SFML/include *.cpp -o final -Lc:/SFML/lib -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
